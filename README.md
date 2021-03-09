@@ -1,0 +1,1 @@
+This is the beginner udemy Django 2.2 course project. 
