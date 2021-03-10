@@ -1,4 +1,8 @@
 {
   "python.pythonPath": "C:\\Users\\stone\\AppData\\Local\\Programs\\Python\\Python38\\python.exe",
-  "python.formatting.provider": "autopep8"
+  "python.autoComplete.extraPaths": [
+    "./**"
+  ],
+  "python.formatting.provider": "yapf",
+  
 }
